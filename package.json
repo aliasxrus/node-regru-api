@@ -1,0 +1,37 @@
+{
+  "name": "regru-api",
+  "version": "0.0.0",
+  "description": "Библиотека Node.js для упрощения работы с REG.API 2 https://www.reg.ru/support/help/api2",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliasxrus/node-regru-api.git"
+  },
+  "keywords": [
+    "regru",
+    "reg",
+    "api",
+    "reg.ru",
+    "reg.api"
+  ],
+  "author": "Kharis Shamsuarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliasxrus/node-regru-api/issues"
+  },
+  "homepage": "https://github.com/aliasxrus/node-regru-api#readme",
+  "dependencies": {
+    "node-fetch": "*"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
+}
