@@ -1,7 +1,7 @@
 {
   "name": "regru-api",
   "version": "0.0.0",
-  "description": "Библиотека Node.js для упрощения работы с REG.API 2 https://www.reg.ru/support/help/api2",
+  "description": "Библиотека Node.js для упрощения работы с REG.API 2",
   "main": "index.js",
   "scripts": {
     "test": "eslint . && tap test/*.js"
