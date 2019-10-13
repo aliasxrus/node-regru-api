@@ -1,6 +1,7 @@
 # Dev
 .idea
 test
+package-lock.json
 
 # Logs
 logs

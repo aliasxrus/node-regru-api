@@ -1,6 +1,6 @@
 const bill = require('./lib/methods/bill');
 const common = require('./lib/methods/common');
-const dns = require('./lib/methods/dns');
+const zone = require('./lib/methods/zone');
 const dnssec = require('./lib/methods/dnssec');
 const domain = require('./lib/methods/domain');
 const folder = require('./lib/methods/folder');
@@ -11,7 +11,7 @@ const user = require('./lib/methods/user');
 
 module.exports = {
   bill,
-  dns,
+  zone,
   dnssec,
   domain,
   folder,

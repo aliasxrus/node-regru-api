@@ -1,6 +1,6 @@
 {
   "name": "regru-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Библиотека Node.js для упрощения работы с REG.API 2",
   "main": "index.js",
   "scripts": {
